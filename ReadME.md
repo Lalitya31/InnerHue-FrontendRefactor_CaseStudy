@@ -103,9 +103,9 @@ Rebuilt the Sonic Sanctuary module to improve immersion:
 
 ## Links
 
-* Repository: <add repo link>
-* Pull Request: <add PR link>
-* Screenshots (Before / After): <add images>
+* Repository: <https://github.com/Nitya-003/InnerHue>
+* Pull Request: <https://github.com/Nitya-003/InnerHue/pull/140>
+* Screenshots (Before / After): attachments
 
 ---
 
